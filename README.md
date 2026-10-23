@@ -15,4 +15,4 @@ Python · C++ · HTML/CSS · JavaScript · Git
 
 ## Let's connect
 - LinkedIn: https://www.linkedin.com/public-profile/settings/
-- Email: f25mmg1375@aror.edu.pk/
+- Email: f25mmg1375@aror.edu.pk
